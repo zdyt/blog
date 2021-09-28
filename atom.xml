@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>香农资源库</title>
+  
+  <subtitle>香农资源库</subtitle>
+  <link href="https://blog.msdnxz.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.msdnxz.com/"/>
+  <updated>2021-09-25T08:09:51.145Z</updated>
+  <id>https://blog.msdnxz.com/</id>
+  
+  <author>
+    <name>香农</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>香农自动建站系统</title>
+    <link href="https://blog.msdnxz.com/2021/09/25/xiang-nong-zi-dong-jian-zhan-xi-tong/"/>
+    <id>https://blog.msdnxz.com/2021/09/25/xiang-nong-zi-dong-jian-zhan-xi-tong/</id>
+    <published>2021-09-25T08:09:51.145Z</published>
+    <updated>2021-09-25T08:09:51.145Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;香农自动建站系统&quot;&gt;&lt;a href=&quot;#香农自动建站系统&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
